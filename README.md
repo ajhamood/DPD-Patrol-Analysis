@@ -31,4 +31,4 @@ Underlying CAD Patrol, Out‑of‑Service, and other unit history datasets are n
 
 ## Tools
 
-Tableau for visualizations;
+Tableau for visualizations.
