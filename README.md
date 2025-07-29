@@ -19,7 +19,7 @@ Underlying CAD Patrol, Out‑of‑Service, and other unit history datasets are n
 
 - Compared precinct performance, focusing on Precincts 3 and 8 to understand why similar workloads produced very different delays.
 
-## Key Findings (high level)
+## Key Findings
 
 - Precincts 3 and 8 handled comparable call volumes; Precinct 3 achieved far lower delays due to broader platoon coverage and more daily units.
 
@@ -32,5 +32,3 @@ Underlying CAD Patrol, Out‑of‑Service, and other unit history datasets are n
 ## Tools
 
 Tableau for visualizations;
-
----
